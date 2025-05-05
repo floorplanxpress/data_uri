@@ -61,6 +61,6 @@ module URI
     end
   end
 
-  URI.scheme_list['DATA'] = self
+  URI.scheme_list['DATA'] = Data
 
 end
